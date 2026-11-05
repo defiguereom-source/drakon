@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Drakon.Api/Drakon.Api.csproj" />
+  <Project Path="Drakon.Application/Drakon.Application.csproj" />
+  <Project Path="Drakon.Domain/Drakon.Domain.csproj" />
+  <Project Path="Drakon.Infrastructure/Drakon.Infrastructure.csproj" />
+  <Project Path="Drakon.Tests/Drakon.Tests.csproj" />
+</Solution>

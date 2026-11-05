@@ -1,0 +1,6 @@
+@Drakon.Api_HostAddress = http://localhost:5090
+
+GET {{Drakon.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
